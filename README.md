@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou tralhando no meu novo site [RaposaBoaV2.0](https://github.com/gabrielbr619/RaposaBoaV2)
 
-- 🌱 Estou tentando aprender cada vez mais sobre **Lógica da programação e javascript**
+- 🌱 Todo dia aprendendo cada vez mais sobre **javascript**
 
 - 📫 Como entrar em contato comigo **gabriel.lara@raposaboa.com**
 
