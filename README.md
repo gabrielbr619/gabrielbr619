@@ -2,6 +2,7 @@
 <h3 align="center">Um eterno estudante</h3>
 
 - 🔭 Atualmente estou tralhando no meu novo site [RaposaBoaV2.0](https://github.com/gabrielbr619/RaposaBoaV2)
+-   O meu projeto mais recente é o [Briefing Pessoal](https://github.com/gabrielbr619/form-frontend/)
 
 - 🌱 Todo dia aprendendo cada vez mais sobre **javascript**
 
