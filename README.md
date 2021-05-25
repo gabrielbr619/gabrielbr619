@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu me chamo Gabriel Lara</h1>
-<h3 align="center">Um eterno estudante</h3>
+<h3 align="center">Desenvolvedor Full Stack Mern</h3>
 
 - 🔭 Atualmente estou tralhando no meu novo site [RaposaBoaV2.0](https://gabrielbr619.github.io/RaposaBoaV2/)
 -   O meu projeto mais recente é o [Desafio Tractian](https://github.com/gabrielbr619/FullstackTractian)
