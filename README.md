@@ -8,7 +8,7 @@
 
 **BIO**
 - 🏢 Atualmente estou buscando oportunidades
-- ⚙️ Uso diariamente: .ts, .tsx, .scss, .psd, .ai
+- ⚙️ Uso diariamente: .ts, .tsx, .scss, .js, .ai
 - 🌱 Aprendendo tudo sobre SOLID
 - 💬 Entre em contato: [linkedin.com/gabriel-lara](https://www.linkedin.com/in/gabriel-lara-52129a205/) ou gabrielbr619@hotmail.com
 - ⚡️ Fato importante: Eu adoro raposas!
