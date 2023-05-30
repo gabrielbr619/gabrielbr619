@@ -1,5 +1,5 @@
 <h3>Olá 👋</h3> 
-<p>Sou um Desenvolvedor Full Stack MERN</p>
+<p>Sou um Desenvolvedor Full Stack SERN</p>
 
 **NOW**
 
