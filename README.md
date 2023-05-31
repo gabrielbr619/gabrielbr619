@@ -4,7 +4,7 @@
 **NOW**
 
 - 🔭 Tralhando no meu novo site [RaposaBoaV2.0](https://gabrielbr619.github.io/RaposaBoaV2/)
-- :sparkles: Projeto mais recente [Desafio Tractian](https://github.com/gabrielbr619/FullstackTractian)
+- :sparkles: Projeto mais recente [Pokedex Next.js](https://github.com/gabrielbr619/pokedex_nextJs)
 
 **BIO**
 - 🏢 Atualmente estou buscando oportunidades
