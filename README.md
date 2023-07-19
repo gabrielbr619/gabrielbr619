@@ -4,7 +4,7 @@
 **NOW**
 
 - 🔭 Tralhando na minha nova api [API de FIIs](https://github.com/gabrielbr619/fii_api)
-- :sparkles: Projeto mais recente [Pokedex Next.js](https://github.com/gabrielbr619/pokedex_nextJs)
+- :sparkles: Projeto mais recente [Pokedex Next.js](https://gabrielbr619.github.io/pokedex_nextJs/)
 
 **BIO**
 - 🏢 Atualmente estou buscando oportunidades
