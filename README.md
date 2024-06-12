@@ -1,10 +1,10 @@
 <h3>Olá 👋</h3> 
-<p>Sou um Desenvolvedor Full Stack SERN</p>
+<p>Sou um Desenvolvedor Full Stack</p>
 
 **NOW**
 
-- 🔭 Tralhando na minha nova api [API de FIIs](https://github.com/gabrielbr619/fii_api)
-- :sparkles: Projeto mais recente [Pokedex Next.js](https://gabrielbr619.github.io/pokedex_nextJs/)
+- 🔭 Tralhando no meu novo projeto PetMatch(Privado)
+- :sparkles: Projetos mais recentes: [Pokedex Next.js](https://gabrielbr619.github.io/pokedex_nextJs/), [API de FIIs](https://github.com/gabrielbr619/fii_api)
 
 **BIO**
 - 🏢 Atualmente estou buscando oportunidades
