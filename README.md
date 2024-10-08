@@ -3,7 +3,7 @@
 
 **NOW**
 - :globe_with_meridians: [Portifolio Online](https://v1-portifolio-inky.vercel.app)
-- 🔭 Tralhando no meu novo projeto PetMatch(Privado)
+- 🔭 Tralhando no meu novo projeto [PetMatch](https://github.com/gabrielbr619/pet_match)
 - :sparkles: Projetos mais recentes: [Pokedex Next.js](https://gabrielbr619.github.io/pokedex_nextJs/), [API de FIIs](https://github.com/gabrielbr619/fii_api)
 
 **BIO**
